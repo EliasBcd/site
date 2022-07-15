@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Elias Bouacida&#39;s academic website</title>
+    <link>https://www.bouacida.fr/publication/</link>
+      <atom:link href="https://www.bouacida.fr/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.bouacida.fr/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://www.bouacida.fr/publication/</link>
+    </image>
+    
+    <item>
+      <title>Rituals of Reason: A Choice-Based Approach to the Acceptability of Lotteries in Allocation Problems</title>
+      <link>https://www.bouacida.fr/publication/social-acceptability-lottery/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.bouacida.fr/publication/social-acceptability-lottery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Choice Correspondences</title>
+      <link>https://www.bouacida.fr/publication/identifying-choice-correspondences/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.bouacida.fr/publication/identifying-choice-correspondences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive Power in Behavioral Welfare Economics</title>
+      <link>https://www.bouacida.fr/publication/pp-in-bwe/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.bouacida.fr/publication/pp-in-bwe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

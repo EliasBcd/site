@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mechanism Design | Elias Bouacida&#39;s academic website</title>
+    <link>https://www.bouacida.fr/tag/mechanism-design/</link>
+      <atom:link href="https://www.bouacida.fr/tag/mechanism-design/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mechanism Design</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.bouacida.fr/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Mechanism Design</title>
+      <link>https://www.bouacida.fr/tag/mechanism-design/</link>
+    </image>
+    
+    <item>
+      <title>Rituals of Reason: A Choice-Based Approach to the Acceptability of Lotteries in Allocation Problems</title>
+      <link>https://www.bouacida.fr/talk/rituals-of-reason-a-choice-based-approach-to-the-acceptability-of-lotteries-in-allocation-problems/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.bouacida.fr/talk/rituals-of-reason-a-choice-based-approach-to-the-acceptability-of-lotteries-in-allocation-problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rituals of Reason: A Choice-Based Approach to the Acceptability of Lotteries in Allocation Problems</title>
+      <link>https://www.bouacida.fr/publication/social-acceptability-lottery/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.bouacida.fr/publication/social-acceptability-lottery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Acceptability of Lotteries in Allocation Problems: a Choice-Based Approach</title>
+      <link>https://www.bouacida.fr/talk/the-acceptability-of-lotteries-in-allocation-problems-a-choice-based-approach/</link>
+      <pubDate>Thu, 03 Jun 2021 14:15:00 +0000</pubDate>
+      <guid>https://www.bouacida.fr/talk/the-acceptability-of-lotteries-in-allocation-problems-a-choice-based-approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Acceptability of Lotteries in Allocation Problems: a Choice-Based Approach</title>
+      <link>https://www.bouacida.fr/talk/the-acceptability-of-lotteries-in-allocation-problems-a-choice-based-approach/</link>
+      <pubDate>Mon, 29 Mar 2021 09:15:00 +0000</pubDate>
+      <guid>https://www.bouacida.fr/talk/the-acceptability-of-lotteries-in-allocation-problems-a-choice-based-approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Acceptability of Lotteries in Allocation Problems: a Choice-Based Approach</title>
+      <link>https://www.bouacida.fr/talk/the-acceptability-of-lotteries-in-allocation-problems-a-choice-based-approach/</link>
+      <pubDate>Mon, 01 Feb 2021 15:00:00 +0000</pubDate>
+      <guid>https://www.bouacida.fr/talk/the-acceptability-of-lotteries-in-allocation-problems-a-choice-based-approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Acceptability of Lotteries in Allocation Problems: a Choice-Based Approach</title>
+      <link>https://www.bouacida.fr/talk/the-acceptability-of-lotteries-in-allocation-problems-a-choice-based-approach/</link>
+      <pubDate>Sat, 12 Sep 2020 09:00:00 +0000</pubDate>
+      <guid>https://www.bouacida.fr/talk/the-acceptability-of-lotteries-in-allocation-problems-a-choice-based-approach/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
